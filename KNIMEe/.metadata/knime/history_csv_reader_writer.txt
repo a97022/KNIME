@@ -1,0 +1,10 @@
+C:\Users\maria\OneDrive\Desktop\parte2 (2223)\switzerland.csv
+C:\Users\maria\OneDrive\Desktop\parte2 (2223)\longbeach.csv
+C:\Users\maria\OneDrive\Desktop\parte2 (2223)\cleveland.csv
+C:\Users\maria\OneDrive\Desktop\parte2 (2223)\hungarian.csv
+C:\Users\maria\OneDrive\Desktop\parte2 (2223)\heart-disease.xlsx
+C:\Users\maria\OneDrive\Desktop\IA\Machine Learning KNIME\FICHA 15\biom3iaeb 13 TP (Ficha 15 - nnets iris)\iris_data.csv
+C:\Users\maria\OneDrive\Desktop\biom3iaeb 13 TP (diap - nnets)\moon_test_dataset.csv
+C:\Users\maria\OneDrive\Desktop\biom3iaeb 13 TP (diap - nnets)\moon_train_dataset.csv
+C:\Users\maria\OneDrive\Desktop\iris_data.csv
+C:\Users\maria\Downloads\biom3iaeb 11 TP (Ficha 12 - arvores decisao - dados)\sales_training_set.csv
